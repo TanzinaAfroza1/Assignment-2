@@ -1,0 +1,118 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+
+/* header section start */
+
+.section-header{
+    background-color: blanchedalmond;
+}
+.nav-section{
+    display: flex;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.section-item{
+    display: flex;
+    margin-left: 350px;
+
+}
+.hufe-width{
+    margin-left: 60px;
+}
+
+.section-archtiects{
+    text-align: center;
+    font-size: 25px;
+     margin-top: 60px;
+}
+.section-archtiects p{
+    font-size:20px ;
+}
+.button{
+    background-color: crimson;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 25px;
+}
+.button:hover{
+    background-color: cyan;
+}
+.image-div img{
+    width: 850px;
+    height: 450px;
+    margin-left: 250px;
+}
+
+/* header section end */
+.section-features{
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.main-section{
+    display: flex;
+
+}
+.quick-list{
+   padding-left: 30px;
+    margin-top: 200px;
+    font-size:20px;
+}
+.images-div2 img{
+    height: 250px;
+    width: 250px;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+.many-variations{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 60px;
+    width: 800px;
+    margin-top:100px;
+    margin-bottom: 100px;
+}
+.dexktop-div{
+    margin-left: 100px;
+    margin-top: 100px;
+    
+    background-image: url(/images/architect.png);
+    background-repeat: no-repeat;
+    background-size:120%;
+
+}
+.dexktop-div img{
+    width: 300px;
+    height: 400px; 
+    /* visibility: hidden; */
+
+}
+
+.dexktop-div div{
+    background-color: crimson;
+    width: 100px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.majority-have{
+    width: 400px;
+    height: 400px;
+}
+.alteration-in{
+    box-shadow: 5px 0px 5px 0px;
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
