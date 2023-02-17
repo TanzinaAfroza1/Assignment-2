@@ -82,13 +82,13 @@
     
     background-image: url(/images/architect.png);
     background-repeat: no-repeat;
-    background-size:120%;
+    background-size:140%;
 
 }
 .dexktop-div img{
     width: 300px;
     height: 400px; 
-    /* visibility: hidden; */
+    visibility: hidden;
 
 }
 
@@ -107,6 +107,7 @@
     padding: 5px;
     margin-top: 5px;
     font-size: 12px;
+    text-align: center;
 }
 
 
